@@ -17,6 +17,9 @@ It analyzes a resume and checks whether important skills are present.
 * Python
 * NumPy
 * Pandas
+* html
+* css
+
 
 ## Files
 
