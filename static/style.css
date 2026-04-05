@@ -1,0 +1,18 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#c43366;
+}
+
+textarea{
+width:60%;
+height:200px;
+}
+
+button{
+padding:10px 20px;
+background:green;
+color:white;
+border:none;
+font-size:16px;
+}
