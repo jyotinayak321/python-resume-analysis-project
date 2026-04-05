@@ -1,0 +1,96 @@
+JYOTI NAYAK
+B.Tech CSE (3rd Year)  |  CBS Group of Institutes, MDU
+rajeshware321@gmail.com   |   +91 9821845781   |   linkedin.com/in/jyoti-nayak-988611290   |   github.com/jyotinayak321
+CAREER OBJECTIVE
+A results-driven B.Tech CSE student with hands-on experience in full-stack web development, Java-based applications, and 
+Generative AI. I build things that work — from a live Carbon Tracker using JavaScript & AI to a complete Bank Management 
+System in Java. Actively targeting internship and job roles where I can ship real products, grow fast, and move closer to my 
+goal of working at Google.
+EDUCATION
+B.Tech — Computer Science & Engineering
+CBS Group of Institutes, MDU (Maharshi Dayanand University)
+CGPA: 7.9  |  Currently Pursuing
+TECHNICAL SKILLS
+2023 – 2027
+Languages
+Java, Python, JavaScript (JS)
+Web & APIs
+HTML, CSS, REST APIs, JSON, Web Development
+AI & GenAI
+Prompt Engineering, Generative AI, Data Analysis
+Desktop Dev
+Java Swing, AWT, JDBC, MySQL, NetBeans IDE
+Other
+Technology for Simulation, Git, VS Code
+Data Science
+PROJECTS
+NumPy, Pandas, Matplotlib
+Carbon Tracker — AI-Powered Web Application
+Tech Stack: HTML, CSS, JavaScript, REST API, JSON, Prompt AI
+2024
+• Engineered a real-time web app that calculates a user's daily carbon footprint based on transport, food, and energy 
+inputs
+• Integrated AI-driven classification to flag Green / Yellow / Red emission zones with actionable reduction tips
+• Handled all data flow via JSON and REST API calls — zero backend dependency, fully client-side
+• Applied Prompt Engineering techniques to improve AI response accuracy and output consistency
+Bank Management System — Java Desktop Application
+Tech Stack: Java, Swing/AWT, MySQL, JDBC, NetBeans IDE
+2023
+• Architected and delivered a fully functional bank desktop app — account creation, deposits, withdrawals, balance 
+enquiry, and admin panel
+• Designed a clean, responsive GUI using Java Swing & AWT components (JFrame, JButton, JTextField, AWT panels)
+• Wired MySQL database via JDBC for persistent, secure storage of all account and transaction records
+• Structured the entire codebase using OOP principles and MVC architecture inside NetBeans IDE
+PDF-Based RAG AI System
+Tech Stack: Python, LangChain, ChromaDB, Groq API (LLaMA 3.3-70B), pypdf
+2025
+• Built an end-to-end RAG pipeline that intelligently answers questions from uploaded PDF documents using Python 
+and LangChain
+• Implemented smart document chunking using RecursiveCharacterTextSplitter for accurate and context-aware 
+retrieval
+• Integrated Groq API with LLaMA 3.3-70B model for fast, accurate AI-generated responses from document context
+• Used ChromaDB as vector database for semantic similarity search and efficient document retrieval
+CERTIFICATIONS
+Certification
+Issuing Organization
+Year
+Data Analyst Skill Certification
+OneRoadmap
+Jun 2025
+Frontend Development Skill Certification
+OneRoadmap
+Jun 2025
+Full Stack Developer Skill Certification
+OneRoadmap
+Jun 2025
+GenAI Powered Data Analytics Job Simulation
+TATA / Forage
+Jun 2025
+Technology Job Simulation (Coding & Dev)
+Deloitte / Forage
+Oct 2025
+JYOTI NAYAK   |   B.Tech CSE, 3rd Year   |   CBS Group of Institutes, MDU
+AREAS OF INTEREST
+Full Stack Web Development
+Artificial Intelligence & Prompt Eng.
+Java Application Development
+Data Analysis & Visualization
+AI Agents & Automation
+RELEVANT COURSEWORK
+Competitive Programming
+Data Structures & Algorithms
+Object-Oriented Programming (Java)
+Web Technologies (HTML, CSS, JS)
+Database Management Systems
+Computer Networks
+Operating Systems
+KEY ACHIEVEMENTS
+• Earned 5 certifications from Deloitte, TATA & OneRoadmap — covering Full Stack, GenAI, Data Analysis & Frontend
+• Independently shipped 2 working projects — a live AI-powered Carbon Tracker and a full-featured Java Bank System
+• Self-taught Prompt Engineering and Generative AI beyond college curriculum — already applying it in real projects
+• Pursuing Google as a career goal — actively building DSA skills, GitHub presence, and industry certifications
+LANGUAGES
+• Hindi — Native
+• English — Professional Working Proficiency
+DECLARATION
+I declare that all information stated above is true and accurate to the best of my knowledge
